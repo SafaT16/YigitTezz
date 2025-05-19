@@ -1,0 +1,44 @@
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\yigit\OneDrive\Masaüstü\Yeni klasör\WinFormsApp1.sln-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.rula.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ErgonomikTezgahAnalizi.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AGrubu.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AnaEkran.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.BGrubu.resources
+C:\Users\Safa\OneDrive\Desktop\tez\c--ile-tez--al--mas--main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CGrubu.resources
